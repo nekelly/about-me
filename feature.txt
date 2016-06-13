@@ -2,4 +2,10 @@ feature
 feature2
 feature3
 feature4
+<<<<<<< HEAD
 feature 5 master
+=======
+feature feature
+>>>>>>> feature
+
+blah
